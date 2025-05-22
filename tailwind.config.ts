@@ -8,8 +8,12 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      colors: {
+        'custom-blue': '#0000FF',
+        'custom-green': '#008000',
+      },
       fontFamily: {
-        sans: ['Arial', 'sans-serif'],
+        'custom': ['Arial', 'sans-serif'],
       },
     },
   },
