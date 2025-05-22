@@ -13,7 +13,7 @@ const config: Config = {
         'custom-green': '#008000',
       },
       fontFamily: {
-        'custom': ['Arial', 'sans-serif'],
+        'sans': ['Arial', 'sans-serif'],
       },
     },
   },
